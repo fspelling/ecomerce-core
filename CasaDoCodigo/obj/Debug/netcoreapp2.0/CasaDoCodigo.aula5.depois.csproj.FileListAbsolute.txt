@@ -1,0 +1,17 @@
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.deps.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.dev.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csprojAssemblyReference.cache
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.CoreCompileInputs.cache
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfoInputs.cache
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfo.cs
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.genruntimeconfig.cache

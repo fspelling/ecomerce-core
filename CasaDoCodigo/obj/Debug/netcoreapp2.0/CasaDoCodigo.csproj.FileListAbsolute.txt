@@ -1,0 +1,16 @@
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Projetos\ecomerce-core\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Projetos\ecomerce-core\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
